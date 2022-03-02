@@ -1,0 +1,8 @@
+{
+    "name": "Octolapse Auto-Configure",
+    "author": "m-roberts",
+    "version": "0.1.0",
+    "description": "Adds slicing settings to gcode files for Octolapse.",
+    "api": 5,
+    "supported_sdk_versions": ["5.0.0", "6.0.0", "7.0.0"]
+}
