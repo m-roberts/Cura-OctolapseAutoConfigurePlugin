@@ -1,7 +1,3 @@
-; Script based on an original created by tjjfvi (https://github.com/tjjfvi)
-; An up-to-date version of the tjjfvi's original script can be found
-; here:  https://csi.t6.fyi/
-; Note - This script will only work in Cura V4.2 and above!
 ; --- Global Settings
 ; layer_height = {layer_height}
 ; smooth_spiralized_contours = {smooth_spiralized_contours}
