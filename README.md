@@ -9,9 +9,9 @@ Forked from [`fieldOfView/Cura-LinearAdvanceSettingPlugin`](https://github.com/f
 
 ## Development Tips
 
-Kill existing instances of Cura
-Start Cura in the background
-Monitor Cura log
+* Kill existing instances of Cura
+* Start Cura in the background
+* Monitor Cura log:
 ```
 (
     pgrep -f cura | xargs kill -9
@@ -23,5 +23,5 @@ Monitor Cura log
 ## TODO
 
 * Replace placeholders (e.g. `; layer_height = {layer_height}`) somehow...
-    https://github.com/Ultimaker/Cura/tree/master/docs
-    Might be better to inject it into the `default_value` of `machine_start_gcode` on init - this will allow the placeholders to be replaced automatically
+    * https://github.com/Ultimaker/Cura/tree/master/docs
+    * Might be better to inject it into the `default_value` of `machine_start_gcode` on init - this will allow the placeholders to be replaced automatically
